@@ -1,2 +1,2 @@
 # first-repository
-author - abhishe
+author - abhishek
