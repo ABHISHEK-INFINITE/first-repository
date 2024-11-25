@@ -1,2 +1,2 @@
-# first-reposito
+# first-repository
 author - abhishek
