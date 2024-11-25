@@ -1,3 +1,3 @@
 # first-repository
 author - abhi
-fuck youn bitch
+fuck you bitch
